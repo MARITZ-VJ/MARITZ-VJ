@@ -10,9 +10,9 @@ I am a **National Diploma in IT (VUT)** graduate and an alumnus of the prestigio
 | Domain | Expertise | Certifications / Training |
 | :--- | :--- | :--- |
 | **Backend Development** | Advanced Java, Spring Boot, SDLC, Clean Code Principles | FNB App Academy, VUT Diploma |
-| **Cloud Infrastructure** | OCI, Infrastructure Automation, BGP, Multi-Cloud (Azure exposure) | **OCI Certified Architect & Developer (4x)** |
+| **Cloud Infrastructure** | OCI, Infrastructure Automation, BGP, Oracle APEX | **OCI Certified Architect & Developer (4x)** |
 | **Networking** | Routing, Switching, TCP/IP, Network Security | **Cisco Networking Academy (4x)** |
-| **Data & Systems** | PL/SQL, Data Modeling, RESTful API Development, Oracle APEX | VUT Diploma |
+| **Data & Systems** | PL/SQL, Data Modeling, RESTful API Development, Multi-Cloud (Azure exposure) | VUT Diploma |
 
 ---
 
