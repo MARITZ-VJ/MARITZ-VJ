@@ -1,4 +1,4 @@
-### Hi, I'm Vukona Maritz 👋
+## Hi👋, I'm Vukona Jubby Maritz 
 ### Full Stack Developer & Cloud Infrastructure Specialist
 
 I am a **National Diploma in IT (VUT)** graduate and an alumnus of the prestigious **FNB App Academy**, focused on building robust, scalable enterprise applications. My expertise is validated by four Oracle Cloud Infrastructure (OCI) certifications.
@@ -9,10 +9,10 @@ I am a **National Diploma in IT (VUT)** graduate and an alumnus of the prestigio
 
 | Domain | Expertise | Certifications / Training |
 | :--- | :--- | :--- |
-| **Backend Development** | Advanced Java, Spring Boot, SDLC, Clean Code Principles | FNB App Academy, VUT Diploma |
-| **Cloud Infrastructure** | OCI, Infrastructure Automation, BGP, Oracle APEX | **OCI Certified Architect & Developer (4x)** |
-| **Networking** | Routing, Switching, TCP/IP, Network Security | **Cisco Networking Academy (4x)** |
-| **Data & Systems** | PL/SQL, Data Modeling, RESTful API Development, Multi-Cloud (Azure exposure) | VUT Diploma |
+| **Backend Development** | Advanced Java, Spring Boot, SDLC, Clean Code Principles | FNB App Academy, VUT IT Diploma |
+| **Cloud Infrastructure** | OCI, Infrastructure Automation, BGP, Oracle APEX | **OCI Certified Architect & Developer ** |
+| **Networking** | Routing, Switching, TCP/IP, Network Security | **Cisco Networking Academy ** |
+| **Data & Systems** | PL/SQL, Data Modeling, RESTful API Development, Multi-Cloud (Azure exposure) | VUT IT Diploma |
 
 ---
 
