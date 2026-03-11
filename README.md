@@ -5,7 +5,7 @@ I am a **National Diploma in IT (VUT)** graduate and an alumnus of the **FNB App
 
 ---
 
-### ⚙️ Core Technical Stack
+### Core Technical Stack
 
 | Domain | Technologies & Expertise |
 | :--- | :--- |
@@ -16,15 +16,15 @@ I am a **National Diploma in IT (VUT)** graduate and an alumnus of the **FNB App
 
 ---
 
-### 🚀 Projects Showcase
+### Projects Showcase
 
-#### 🛠️ Featured: ECMS (The "Best Skill" System)
+#### Featured: ECMS (The "Best Skill" System)
 **[Employee & Customer Management System](https://github.com/vukona-dev/employee-customer-management-system)**
 * **Engineering:** Implemented **Service-Oriented Architecture (SOA)** and **RBAC** for 5 distinct roles.
 * **DevOps:** Migrated to **Maven** for automated dependency management and distribution.
 * **Visualization:** Integrated **JFreeChart** for real-time analytics.
 
-#### 🤖 AI & Data Science
+#### AI & Data Science
 **[StockWise-AI](https://github.com/BAnalysis-3-2/StockWise-AI)**
 * Engineered a predictive demand forecasting system using **Python (LightGBM/LSTM)**.
 * Focused on inventory optimization for SME retailers in South Africa.
@@ -34,7 +34,7 @@ I am a **National Diploma in IT (VUT)** graduate and an alumnus of the **FNB App
 * **Modern Design:** Building a smooth, "app-like" dashboard experience using **Tailwind CSS** for responsive styling and **Recharts** for interactive AI-driven data visualization.
 * **Impact:** Designed to empower SME retailers with real-time, data-driven inventory insights through a fast, modern web interface.
 
-#### 🏗️ Enterprise & Desktop Systems
+#### Enterprise & Desktop Systems
 **[Property-Management-Java](https://github.com/vukona-dev/property-management-java)**
 * Built a **3-tier architecture** system with custom exception handling and object stream persistence.
 * Features loan calculation and commission tracking logic.
@@ -46,6 +46,6 @@ I am a **National Diploma in IT (VUT)** graduate and an alumnus of the **FNB App
 ---
 
 
-### 📞 Connect with Me
+### Connect with Me
 * 💼 [**LinkedIn**](http://www.linkedin.com/in/vukona-jubby-maritz) 
 * 🌐 [**Portfolio**](https://maritz-vj.github.io/)
