@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Vukona Jubby Maritz 
-### Junior Software Developer | 4x Oracle Cloud Certified | FNB App Academy Alumnus
+### Junior Software Developer | Oracle Cloud Certified | FNB App Academy Alumnus
 
 I am a **National Diploma in IT (VUT)** graduate and an alumnus of the **FNB App Academy**. I specialize in building secure, enterprise-grade applications with a focus on **Service-Oriented Architecture (SOA)** and **Cloud-Native** solutions.
 
@@ -47,5 +47,5 @@ I am a **National Diploma in IT (VUT)** graduate and an alumnus of the **FNB App
 
 
 ### Connect with Me
-* 💼 [**LinkedIn**](http://www.linkedin.com/in/vukona-jubby-maritz) 
-* 🌐 [**Portfolio**](https://maritz-vj.github.io/)
+*  [**LinkedIn**](http://www.linkedin.com/in/vukona-jubby-maritz) 
+*  [**Portfolio**](https://maritz-vj.github.io/)
