@@ -11,7 +11,7 @@ I am a **National Diploma in IT (VUT)** graduate and an alumnus of the **FNB App
 | :--- | :--- |
 | **Backend & Architecture** | Java (Advanced), Spring Boot, Maven, RBAC, SOA, SDLC |
 | **Cloud Infrastructure** | **4x OCI Certified (Architect & Developer)**, Automation, Networking |
-| **Data & AI** | Python (LightGBM/LSTM), SQL (SQLite, PL/SQL, MySQL), REST APIs |
+| **Data & AI** | Python (LightGBM/LSTM), SQL (SQLite, PL/SQL, MySQL) |
 | **Web & Networking** | PHP, JavaScript, Cisco Networking (Routing & Switching) |
 
 ---
